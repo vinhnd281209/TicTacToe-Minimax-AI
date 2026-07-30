@@ -23,6 +23,7 @@ A clean, modular Python implementation of the classic Tic-Tac-Toe game. Designed
     python TicTacToe.py
     ```
 3. **POV Gameplay:**
+
     ![TicTacToe demo](demo.png)
 
 🎯 Future Improvements (AI Roadmap)

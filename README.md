@@ -20,10 +20,10 @@ A clean, modular Python implementation of the classic Tic-Tac-Toe game. Designed
 
 2. **Run the game:**
     ```bash
-    python TicTocToe.py
+    python TicTacToe.py
     ```
 3. **POV Gameplay:**
-    ![TicTocToe demo](demo.png)
+    ![TicTacToe demo](demo.png)
 
 🎯 Future Improvements (AI Roadmap)
 
